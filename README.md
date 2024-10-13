@@ -1,2 +1,2 @@
 # markdown_previewer
-A CodePen gist. The solution to one of the credit projects from FreeCodeCamp "Front End Development Libraries" course.
+A Pen created on CodePen.io. Original URL: https://codepen.io/heEXDe/pen/xxovJqQ.
